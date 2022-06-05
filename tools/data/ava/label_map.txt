@@ -1,0 +1,59 @@
+1: bend
+4: dance
+5: fall down
+6: get up
+7: jump/leap
+8: eat
+9: eat
+10: run/jog
+11: sit
+12: stand
+13: drink
+14: walk
+15: eat
+17: carry/hold (an object)
+20: drink
+22: close (e.g., a door, a box)
+24: cut
+26: dress/put on clothing
+27: drink
+28: drive (e.g., a car, a truck)
+29: eat
+30: enter
+34: drink
+36: lift/pick up
+37: drink
+38: open (e.g., a window, a car door)
+41: play musical instrument
+43: point to (an object)
+45: pull (an object)
+46: push (an object)
+47: put down
+48: read
+49: ride (e.g., a bike, a car, a horse)
+51: eat
+52: smoke
+54: smoke
+56: eat
+57: smoke
+58: throw
+59: smoke
+60: smoke
+61: watch (e.g., TV)
+62: work on a computer
+63: write
+64: fight/hit 
+65: give/serve (an object) to (a person)
+66: eat
+67: hand 
+68: hand 
+69: hand 
+70: eat
+72: smoke
+73: drink
+74: listen to (a person)
+76: push (another person)
+77: smoke
+78: take (an object)
+79: talk to (e.g., self, a person, a group)
+80: watch (a person)
